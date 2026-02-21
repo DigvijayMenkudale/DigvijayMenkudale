@@ -1,6 +1,8 @@
+💫 About Me
+
 🔭 I’m currently working on...
 
-Building and refining EduSense, a RAG-powered offline study assistant that combines local LLMs (Phi-3 via Ollama) with vector search (ChromaDB) to help students interact with their academic PDFs in a smarter, faster, and fully offline way. I’m actively improving retrieval accuracy, response quality, and system efficiency.
+Building and refining EduSense, a RAG-powered offline study assistant that combines local LLMs (Phi-3 via Ollama) with vector search (ChromaDB) to help students interact with their academic PDFs in a smarter, faster, and fully offline way. I’m actively improving retrieval accuracy, enhancing response quality, and optimizing overall system efficiency.
 
 🎓 I’m currently pursuing...
 
@@ -12,10 +14,13 @@ Deep-diving into Generative AI engineering and LLM architecture — experimentin
 
 💬 Ask me about...
 
-How I design and build AI-powered systems from scratch,
-How I architect full-stack applications using FastAPI and React,
-How I implement computer vision solutions with OpenCV and YOLOv8,
-Or how RAG systems actually work under the hood.
+Designing and building AI-powered systems from scratch
+
+Architecting full-stack applications using FastAPI and React
+
+Implementing computer vision solutions with OpenCV and YOLOv8
+
+How RAG systems actually work under the hood
 
 ⚡ Fun fact...
 

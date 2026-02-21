@@ -1,5 +1,4 @@
-💫 About Me
-
+# 💫 About Me:
 🔭 I’m currently working on...
 
 Building and refining EduSense, a RAG-powered offline study assistant that combines local LLMs (Phi-3 via Ollama) with vector search (ChromaDB) to help students interact with their academic PDFs in a smarter, faster, and fully offline way. I’m actively improving retrieval accuracy, enhancing response quality, and optimizing overall system efficiency.

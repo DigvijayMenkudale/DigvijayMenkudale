@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔭 I am currently working on...<br>Improving EduSense, a RAG-based offline study assistant that uses local LLMs (Ollama/phi3) and vector databases (ChromaDB) to help students interact with their academic PDFs.<br><br>🌱 I am currently learning...<br>Advanced Generative AI Engineering and LLM Architecture, focusing on data preparation and fine-tuning models for specialized tasks.<br><br>💬 Ask me about...<br>Data Analysis & Visualization (Python, SQL, Power BI), Full-Stack Development (React, FastAPI, Django), and Computer Vision (OpenCV, YOLOv8).<br><br>⚡ Fun fact...<br>I built FaceX, a facial recognition system for attendance, so I’m basically teaching computers how to never forget a face!
+🔭 I’m currently working on...
+
+Building and refining EduSense, a RAG-powered offline study assistant that combines local LLMs (Phi-3 via Ollama) with vector search (ChromaDB) to help students interact with their academic PDFs in a smarter, faster, and fully offline way. I’m actively improving retrieval accuracy, response quality, and system efficiency.
+
+🎓 I’m currently pursuing...
+
+An MCA in Data Science at MIT Vishwaprayag University, where I actively explore statistical modeling, scalable data systems, and real-world AI architectures that move beyond theory into production-ready solutions.
+
+🌱 I’m currently learning...
+
+Deep-diving into Generative AI engineering and LLM architecture — experimenting with data preprocessing pipelines, optimizing retrieval strategies, and exploring fine-tuning techniques for domain-specific AI applications.
+
+💬 Ask me about...
+
+How I design and build AI-powered systems from scratch,
+How I architect full-stack applications using FastAPI and React,
+How I implement computer vision solutions with OpenCV and YOLOv8,
+Or how RAG systems actually work under the hood.
+
+⚡ Fun fact...
+
+I built FaceX, a facial recognition attendance system — so yes, I’ve literally trained machines to recognize faces better than humans remember them.
 
 
 ## 🌐 Socials:
